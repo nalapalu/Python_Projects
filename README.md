@@ -47,6 +47,8 @@ This repository features Python scripts, Jupyter Notebooks, and related files fo
 - Success rates improved over time as providers refined their procedures.
 - Payloads exceeding 6,000 kg were less successful, possibly due to increased difficulty and susceptibility to weather conditions.
 
+[Project Presentaion for Stakeholders](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/Final_assignment.pdf)
+
 ---
 
 ### 2. [**Kaggle Titanic Survival Prediction Project**](https://github.com/nalapalu/Python_Projects/tree/main/Kaggle_Titanic_Survival_Prediction_Project)
