@@ -10,7 +10,6 @@ This capstone project aims to apply the skills acquired during the IBM Data Scie
 The dataset was compiled using:
 - The SpaceX API
 - NASA's website
-- A Kaggle dataset on SpaceX launches
 
 Python was used for data extraction and cleaning with Pandas. Below are the key components:
 
