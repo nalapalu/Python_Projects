@@ -77,30 +77,24 @@ Here is a list of the projects included in this repository:
 
    **Results and Insights**
     - The SVM achieved the Highest score an 77.9% accuracy rate.
-    - KSC launch site had the highest success rates, likely due to stable environmental conditions.  
-    - Launch success rates improved over time as providers refined their procedures.
-    - Payloads over 6000kg were less successful, possibly due to increased difficulty and susceptibility to weather.
+    - Grid search cross-validation was performed on the SVM model to improve prediction
 
-
-
-    
 ## Technologies Used
 
-- SQL, MySQL, PostgresSQL, GoogleSQL (Structured Query Language)
-- Database Management Systems (e.g., MySQL, PostgreSQL, SQL Server, GCP)
-
+- Python, SQL
+- Data Science Libraries(pandas, numpy, scikit-learn, matplotlib, seaborn, missingno, catboost, joblib)
+- Machine Learning algorithms 
+- Jupyter Notebooks
 ---
 
 ## Getting Started
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/nalapalu/SQL_Projects.git
+   git clone https://github.com/nalapalu/Python_Projects
    ```
 
 2. Explore the folders for each project to see the associated files, scripts, and documentation.
-
-3. To run the SQL scripts, ensure you have a SQL environment set up. Import the datasets provided and execute the scripts using your preferred DBMS.
 
 ---
 
@@ -115,6 +109,6 @@ Let’s connect!
 
 ---
 
-Thank you for checking out my SQL portfolio! I hope these projects provide insights into my skills and passion for working with data.
+Thank you for checking out my Python portfolio! I hope these projects provide insights into my skills and passion for working with data.
 
 ---
