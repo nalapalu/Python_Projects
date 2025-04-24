@@ -27,7 +27,7 @@ This repository features Python scripts, Jupyter Notebooks, and related files fo
 ### 1. [**Predicting SpaceX Falcon 9 Launch Success**](https://github.com/nalapalu/Python_Projects/tree/main/Predicting-SpaceX-Falcon-9-Launch-Success)
 
 #### Objectives:
-- This capstone project applies the skills developed during the IBM Data Science Professional Certificate program to a real-world problem: predicting the success of SpaceX Falcon 9 rocket launches.
+- This capstone project applies the skills developed during the [IBM Data Science Professional Certificate program](https://www.coursera.org/account/accomplishments/professional-cert/URXA2M62VAPC) to a real-world problem: predicting the success of SpaceX Falcon 9 rocket launches.
 - Utilize historical launch data from diverse sources to create a machine learning model that estimates the probability of success for future launches.
 
 #### Data:
