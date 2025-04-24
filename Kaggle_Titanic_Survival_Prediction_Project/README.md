@@ -79,7 +79,8 @@ Grid search cross-validation was performed on the SVM model with the following p
 
 ## Results
 
-The model was evaluated using accuracy score and cross-validation. Final predictions were generated for the test dataset and exported for submission.
+The SVM model achieved the highest accuracy, at 77.9%.
+Grid search cross-validation enhanced the performance of the SVM model.
 
 ## Requirements
 
