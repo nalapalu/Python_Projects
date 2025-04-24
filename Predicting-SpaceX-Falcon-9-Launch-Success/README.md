@@ -6,6 +6,8 @@ Welcome to the repository for my capstone project under the IBM Data Science Pro
 
 This capstone project aims to apply the skills acquired during the IBM Data Science Professional Certificate program to a real-world problem: predicting the success of SpaceX Falcon 9 rocket launches. Utilizing historical launch data from various sources, I developed a machine learning model to estimate the probability of success for future launches.
 
+[Project Presentaion](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/Final_assignment.pdf)
+
 ### Sources of Data
 The dataset was compiled using:
 - The SpaceX API
@@ -14,28 +16,26 @@ The dataset was compiled using:
 Python was used for data extraction and cleaning with Pandas. Below are the key components:
 
 #### Data Extraction
-- [**DataCollection.ipynb**](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/DataCollection.ipynb): Demonstrates data extraction via an API.
-- [**WebScraping.ipynb**](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/WebScraping.ipynb): Showcases web scraping techniques.
+- [**DataCollection.ipynb**](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/DataCollection.ipynb): Demonstrates data extraction via an API.
+- [**WebScraping.ipynb**](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/WebScraping.ipynb): Showcases web scraping techniques.
 
 #### Data Wrangling
-- [**Data_Wrangling.ipynb**](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/Data_Wrangling.ipynb): Focuses on cleaning, handling missing values, and transforming data for analysis.
+- [**Data_Wrangling.ipynb**](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/Data_Wrangling.ipynb): Focuses on cleaning, handling missing values, and transforming data for analysis.
 
 #### Exploratory Data Analysis (EDA)
 Performed to understand the dataset and explore relationships between features and the target variable. Visualizations were created using matplotlib and seaborn.
-- [**EDA.ipynb**](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/EDA.ipynb): Performed Exploratory data analysis with pandas, Numpy, Seaborn, matplotlib
-- [**EDA_sql.ipynb**](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/EDA_SQL.ipynb): EDA using SQL queries.
+- [**EDA.ipynb**](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/EDA.ipynb): Performed Exploratory data analysis with pandas, Numpy, Seaborn, matplotlib
+- [**EDA_sql.ipynb**](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/EDA_SQL.ipynb): EDA using SQL queries.
 
 #### Interactive Analytics
-- [**Visualization.ipynb**](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/Visualization.ipynb): Geospatial visualizations using Folium and  Interactive visual analytics with Plotly.
+- [**Visualization.ipynb**](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/Visualization.ipynb): Geospatial visualizations using Folium and  Interactive visual analytics with Plotly.
 
 ### Machine Learning Model
 
 A machine learning model was developed to predict launch success. Various algorithms were tested, including logistic regression, decision trees, and random forests. The best-performing model was a Logistic model with an accuracy of 94.4%. Performance metrics such as accuracy, precision, recall, and F1 score were used for evaluation.
-- [**Machine_Learning_Prediction.ipynb**](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/Machine_Learning_Prediction.ipynb): Focuses on machine learning predictions using Sklearn, pandas and numpy
+- [**Machine_Learning_Prediction.ipynb**](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/Machine_Learning_Prediction.ipynb): Focuses on machine learning predictions using Sklearn, pandas and numpy
 
 ### Key Findings
-
-[Slide Deck with results](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/Final_assignment.pdf)
 
 #### Business Insights and KPIs
 - The model achieved an 87.7% accuracy rate.
