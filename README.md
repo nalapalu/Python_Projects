@@ -8,6 +8,7 @@ Welcome to my Python Projects repository! This collection showcases various Pyth
 - [Projects](#projects)
   - [Predicting SpaceX Falcon 9 Launch Success](#predicting-spacex-falcon-9-launch-success)
   - [Hypothesis Testing with Men and Women Soccer Matches](#Hypothesis-Testing-with-Men-and-Women-Soccer-Matches)
+  - [Data-Driven Decisions with A/B Testing](#Data-Driven-Decisions-with-A/B-Testing)
   - [Statistical Assessment: Automobile Price Analysis Study](#statistical-assessment-automobile-price-analysis-study)
   - [Kaggle Titanic Survival Prediction Project](#kaggle-titanic-survival-prediction-project)
 
@@ -77,9 +78,28 @@ This repository features Python scripts, Jupyter Notebooks, and related files fo
 - Mean Womens teams Goal: 2.98. Mean Mean's Team goal 2.513
 - p-value less than 0.01. Can reject Null hypothesis.  
 
-[Project Presentaion for Stakeholders](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/Final_assignment.pdf)
+---
 
+### [**Data-Driven Decisions with A/B Testing**](https://github.com/nalapalu/Python_Projects/tree/main/Data-Driven%20Decisions%20with%20A%3AB%20Testing)
 
+#### Objectives:
+- Act as a data scientist at an online travel agency (OTA) testing a new search ranking system aimed at improving conversion. Using Python, you will analyze the A/B test results and decide whether the new system should be rolled out.
+- Analyze and interpret the results to determine whether the new ranking system delivers a statistically significant improvement and provide a clear, data-driven recommendation.
+
+#### Data Overview:
+- A/B test datasets with session-level booking data ("sessions_data.csv") and user-level control/variant split ("users_data.csv").
+
+#### Methodology:
+- Load and Join data
+- Estimate effect size
+- Compute primary metric
+- Determine Sample Ratio Mismatch
+- Conduct effect analysis on the Primay metric and then on the Guardrail metric
+- make decision
+
+#### Key Findings & Insights: 
+- Primary metric was be statistically significant and showed positive effect, indicating successful experiment with a sigificant postive conversion rate
+- Guardrail was either be statistically insignificant and showed positive effect indicating guardrail metric was not harmed.  
 
 
 ---
