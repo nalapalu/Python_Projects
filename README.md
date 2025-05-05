@@ -121,7 +121,7 @@ For a detailed breakdown of findings, methodology, and business implications, re
 
 - **Programming Languages:** Python, SQL
 - **Data Science Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Missingno, CatBoost, Joblib
-- **Machine Learning Algorithms:** Various techniques explored and applied.
+- **Machine Learning Algorithms:** Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines, K-Nearest Neighbors, Gradient Boosting Machines.
 - **Environment:** Jupyter Notebooks
 
 ---
