@@ -6,6 +6,9 @@ Welcome to my Python Projects repository! This collection showcases various Pyth
 
 - [Overview](#overview)
 - [Projects](#projects)
+  - [Predicting SpaceX Falcon 9 Launch Success](#kaggle-titanic-survival-prediction-project)
+  - [Statistical Assessment: Automobile Price Analysis Study](##statistical-assessment-automobile-price-analysis-study)
+  - [Kaggle Titanic Survival Prediction Project](##kaggle-titanic-survival-prediction-project)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Contact](#contact)
@@ -24,7 +27,7 @@ This repository features Python scripts, Jupyter Notebooks, and related files fo
 
 ## Projects
 
-### 1. [**Predicting SpaceX Falcon 9 Launch Success**](https://github.com/nalapalu/Python_Projects/tree/main/Predicting-SpaceX-Falcon-9-Launch-Success)
+### [**Predicting SpaceX Falcon 9 Launch Success**](https://github.com/nalapalu/Python_Projects/tree/main/Predicting-SpaceX-Falcon-9-Launch-Success)
 
 #### Objectives:
 - This capstone project applies the skills developed during the [IBM Data Science Professional Certificate program](https://www.coursera.org/account/accomplishments/professional-cert/URXA2M62VAPC) to a real-world problem: predicting the success of SpaceX Falcon 9 rocket launches.
@@ -51,7 +54,7 @@ This repository features Python scripts, Jupyter Notebooks, and related files fo
 
 ---
 
-## 2. [**Statistical Assessment: Automobile Price Analysis Study**](https://github.com/nalapalu/Python_Projects/tree/main/Statistical%20Assessment%20Automobile%20Price%20Analysis%20Study)  
+## [**Statistical Assessment: Automobile Price Analysis Study**](https://github.com/nalapalu/Python_Projects/tree/main/Statistical%20Assessment%20Automobile%20Price%20Analysis%20Study)  
 
 ### Objectives:
 This project showcases my expertise in statistical analysis and machine learning using Python to examine sales trends for an automobile retailer. The primary goals include:  
@@ -86,7 +89,8 @@ For a detailed breakdown of findings, methodology, and business implications, re
 
 --- 
 
-### 3. [**Kaggle Titanic Survival Prediction Project**](https://github.com/nalapalu/Python_Projects/tree/main/Kaggle_Titanic_Survival_Prediction_Project)
+### Kaggle Titanic Survival Prediction Project
+[GithubRepo](https://github.com/nalapalu/Python_Projects/tree/main/Kaggle_Titanic_Survival_Prediction_Project)
 
 #### Objectives:
 - This project predicts Titanic passenger survival using features like age, gender, ticket class, and more. The workflow includes:
