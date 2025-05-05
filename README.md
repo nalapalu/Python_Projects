@@ -8,7 +8,7 @@ Welcome to my Python Projects repository! This collection showcases various Pyth
 - [Projects](#projects)
   - [Predicting SpaceX Falcon 9 Launch Success](#predicting-spacex-falcon-9-launch-success)
   - [Hypothesis Testing with Men and Women Soccer Matches](#Hypothesis-Testing-with-Men-and-Women-Soccer-Matches)
-  - [Data-Driven Decisions with A/B Testing](#Data-Driven-Decisions-with-A/B-Testing)
+  - [Data-Driven Decisions with A/B Testing](#Data-Driven-Decisions-with-AB-Testing)
   - [Statistical Assessment: Automobile Price Analysis Study](#statistical-assessment-automobile-price-analysis-study)
   - [Kaggle Titanic Survival Prediction Project](#kaggle-titanic-survival-prediction-project)
 
@@ -80,7 +80,7 @@ This repository features Python scripts, Jupyter Notebooks, and related files fo
 
 ---
 
-### [**Data-Driven Decisions with A/B Testing**](https://github.com/nalapalu/Python_Projects/tree/main/Data-Driven%20Decisions%20with%20A%3AB%20Testing)
+### [**Data-Driven Decisions with AB Testing**](https://github.com/nalapalu/Python_Projects/tree/main/Data-Driven%20Decisions%20with%20A%3AB%20Testing)
 
 #### Objectives:
 - Act as a data scientist at an online travel agency (OTA) testing a new search ranking system aimed at improving conversion. Using Python, you will analyze the A/B test results and decide whether the new system should be rolled out.
