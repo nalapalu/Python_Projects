@@ -7,8 +7,10 @@ Welcome to my Python Projects repository! This collection showcases various Pyth
 - [Overview](#overview)
 - [Projects](#projects)
   - [Predicting SpaceX Falcon 9 Launch Success](#predicting-spacex-falcon-9-launch-success)
+  - [Hypothesis Testing with Men and Women Soccer Matches](#Hypothesis-Testing-with-Men-and-Women-Soccer-Matches)
   - [Statistical Assessment: Automobile Price Analysis Study](#statistical-assessment-automobile-price-analysis-study)
   - [Kaggle Titanic Survival Prediction Project](#kaggle-titanic-survival-prediction-project)
+
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Contact](#contact)
@@ -51,6 +53,34 @@ This repository features Python scripts, Jupyter Notebooks, and related files fo
 - Payloads exceeding 6,000 kg were less successful, possibly due to increased difficulty and susceptibility to weather conditions.
 
 [Project Presentaion for Stakeholders](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/Final_assignment.pdf)
+
+---
+
+### [**Hypothesis Testing with Men and Women Soccer Matches**](https://github.com/nalapalu/Python_Projects/tree/main/Hypothesis%20Testing%20with%20Men's%20and%20Women's%20Soccer%20Matches)
+
+#### Objectives:
+- Perform an appropriate hypothesis test to determine the p-value, and hence result, of whether to reject or fail to reject the null hypothesis that the mean number of goals scored in women's international soccer matches is the same as men's using a 10% significance level.
+
+#### Data Overview:
+- The two datasets contain the results of every official men's and women's international football match since the 19th century
+- This data is stored in two CSV files: `women_results.csv` and `men_results.csv`.
+
+#### Methodology:
+- Perform Exploratory analysis
+- Filtering data
+- Choosing Correct Hypothesis test
+- Running test
+- Interpret results
+
+#### Key Findings & Insights: 
+- Goals scored is not normally distributed, so use perform right-tailed Wilcoxon-Mann-Whitney test with scipy
+- Mean Womens teams Goal: 2.98. Mean Mean's Team goal 2.513
+- p-value less than 0.01. Can reject Null hypothesis.  
+
+[Project Presentaion for Stakeholders](https://github.com/nalapalu/Python_Projects/blob/main/Predicting-SpaceX-Falcon-9-Launch-Success/Final_assignment.pdf)
+
+
+
 
 ---
 
