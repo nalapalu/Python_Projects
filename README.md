@@ -7,7 +7,7 @@ Welcome to my Python Projects repository! This collection showcases various Pyth
 - [Overview](#overview)
 - [Projects](#projects)
   - [Predicting SpaceX Falcon 9 Launch Success](#kaggle-titanic-survival-prediction-project)
-  - [Statistical Assessment: Automobile Price Analysis Study](##statistical-assessment-automobile-price-analysis-study)
+  - [Statistical Assessment: Automobile Price Analysis Study](#statistical-assessment-automobile-price-analysis-study)
   - [Kaggle Titanic Survival Prediction Project](##kaggle-titanic-survival-prediction-project)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
